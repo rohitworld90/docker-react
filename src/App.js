@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. This is a test number four!
+          Edit <code>src/App.js</code> and save to reload. Now I am live on AWS! YaaaaaaaY!
         </p>
         <a
           className="App-link"
