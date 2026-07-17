@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. Now I am live on AWS! YaaaaaaaY!
+          React app served by Nginx from a multi-stage Docker build, deployed to AWS via Travis CI.
         </p>
         <a
           className="App-link"
